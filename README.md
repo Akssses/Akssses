@@ -1,15 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akzhol&fontSize=60&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akbar&fontSize=60&animation=twinkling&fontColor=ffffff)
 
 
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/baiaman-tumantaev/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="30"/>
-  </a>
-  <a href="https://wa.me/+996774480342">
+  <a href="https://wa.me/+996990777820">
     <img src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge" height="30"/>
   </a>
-  <a href="https://t.me/Baiaman17">
+  <a href="https://t.me/akses_7">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30"/>
   </a>
 </div>
