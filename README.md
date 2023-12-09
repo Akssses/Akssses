@@ -4,12 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://wa.me/+996990777820">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" height="30"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" height="30"/>
   </a>
   <a href="https://t.me/akses_7">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" height="30"/>
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" height="30"/>
   </a>
 </div>
+
 
 
 ---
