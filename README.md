@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=037ffc&height=200&section=header&text=Akbar&fontSize=60&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0367fc&height=200&section=header&text=Akbar&fontSize=60&animation=twinkling&fontColor=ffffff)
 
 
 
