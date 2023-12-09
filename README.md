@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=5500ff&height=200&section=header&text=Akbar&fontSize=60&animation=twinkling&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000ff&height=200&section=header&text=Akbar&fontSize=60&animation=twinkling&fontColor=ffffff)
 
 
 
@@ -13,7 +13,7 @@
 
 ---
 
-### :fire: My Skills :
+### My Skills :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="python" width="40" height="40"/>&nbsp;
